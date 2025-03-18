@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Machine Learning Engineer & Data Scientist | Passionate about AI, coding, and innovation.<br>💻 Experienced in C, C++, Python | Self-taught engineer, always pushing boundaries.<br>🔍 Obsessed with solving complex problems and building impactful solutions.<br>📫 Let’s connect and create something amazing!
+🚀 Machine Learning Engineer & Data Scientist | Passionate about AI, coding, and innovation.<br>💻 Experienced in C, C++, Python | Self-taught engineer, Computer Science bachelor's graduate, always pushing boundaries..<br>🔍 Obsessed with solving complex problems and building impactful solutions.<br>📫 Let’s connect and create something amazing!
 
 
 ## 🌐 Socials:
